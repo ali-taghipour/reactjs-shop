@@ -1,0 +1,2 @@
+# reactjs-shop
+with redux
